@@ -1,0 +1,111 @@
+*{
+     margin:0px;
+    padding: 0px;
+    text-decoration: none;
+}
+/* Navigation Start*/
+/* nav{
+
+    max-width: 100%;
+    height: 50px;
+    background-color: white;
+    line-height: 50px;
+    font-size: 18px;
+    border: 2px solid blue;
+
+}
+
+nav ul{
+    float: left;
+    list-style-type: none;
+    color: blue;
+   
+}
+nav ul li{
+    display: inline-block;
+ 
+}
+nav ul li a{
+    padding: 5px 15px;
+}
+nav .right{
+    float: right;
+    padding: 1px 25px;
+    
+}
+.srcbtn{
+    border: 2px solid blue;
+    width: 60px;
+    height: 25px;
+    background-color: white;
+    color: blue;
+}
+.srch{
+    width: 180px;
+    height: 25px;
+}
+
+
+
+ *//* 
+.right{
+    display: inline-block;
+    border: 2px solid red;
+} */
+
+/* Navigation End*/
+
+.head
+{
+    
+width: 83px;
+height: 24px;
+
+/* Heading/H5 */
+
+font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 100%;
+/* identical to box height, or 24px */
+font-weight: bold;
+
+/* Body Text/Body Color */
+
+color: #212529;
+}
+/*card start*/
+.card{
+    
+    margin: 25px;
+}
+.card .btn{
+    background-color: rgb(106, 106, 245);
+    color: white;
+    align-self: center;
+    
+}
+.margin{
+    margin: 15px;
+}
+.card a{
+    font-size: 15px;
+}
+
+ 
+  .form-con{
+       margin: 15px;
+   }
+  .col{
+    margin-bottom: 15px;
+  }
+  .subtitle{
+    color: #6c757d;
+  }
+
+ 
+/* Table Column Line Remove */
+  .table>tbody>tr>td, .table>tbody>tr>th, .table>thead>tr>th {
+    border: none;
+  }
